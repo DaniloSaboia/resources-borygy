@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DaniloSaboia.github.io/resources-borygy/sitemap.xml
